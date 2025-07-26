@@ -1,5 +1,31 @@
-# CODSOFT
-Internship repository for CodSoft – contains Java assignments, mini-projects, and task-based learning done during the July 2025 internship.
-# CodSoft Java Internship – July 2025
+# CODSOFT Internship – Java Projects 🚀
 
-This repository contains all the Java-based tasks and mini-projects I completed during my internship at CodSoft. It includes problem-solving assignments, object-oriented programming, file I/O, and basic application logic.
+Welcome to my **CODSOFT Java Internship** repository! This repo contains multiple Java-based console projects developed as part of my internship to improve core Java concepts and hands-on coding skills.
+
+---
+
+## 📁 Tasks Overview
+
+| Task No. | Project Title            | Description |
+|----------|--------------------------|-------------|
+| Task 1   | **Number Guessing Game** | A console game where the user tries to guess a random number within limited attempts. |
+| Task 2   | **Student Grade Calculator** | Calculates total marks, percentage, and assigns grade based on scores. |
+| Task 3   | **ATM Interface**        | A simulation of basic ATM functionalities like check balance, withdraw, deposit. |
+| Task 4   | **Currency Converter**   | Converts amounts between different currencies using real-time exchange rates and fallback values. |
+
+---
+
+## 🛠️ Technologies Used
+
+- Java (JDK 8+)
+- Java I/O, OOP, Control Flow
+- JSON (for currency conversion)
+- API integration via `HttpURLConnection`
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ashayabhay/CODSOFT.git
