@@ -18,7 +18,7 @@ Welcome to my **CODSOFT Java Internship** repository! This repo contains multipl
 
 ## 🛠️ Technologies Used
 
-- Java (JDK 8+)
+- Java (JDK 7+)
 - Java I/O, OOP, Control Flow
 - JSON (for currency conversion)
 - API integration via `HttpURLConnection`
