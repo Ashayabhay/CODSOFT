@@ -95,7 +95,7 @@ Grade = B
 
 **Abhay Paathak**
 Java Intern at CodSoft
-[LinkedIn](#) | [GitHub](#) | [Portfolio](#)
+
 
 ---
 
